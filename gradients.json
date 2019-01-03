@@ -1336,7 +1336,17 @@
         "name": "Piggy Pink",
         "colors": ["#ee9ca7","#ffdde1"]
     },
-    {
+  
+  { 
+        "name": "Piggy Pink",
+        "colors": ["#ee9ca7","#ffdde1"]
+    },
+    { 
+        "name": "Modern Look",
+        "colors": ["#f02fc2","#6094ea"]
+    },
+  
+   {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
     }
